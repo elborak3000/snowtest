@@ -1,0 +1,14 @@
+definition_version: 2
+entities:
+  my_streamlit:
+    type: streamlit
+    identifier: streamlit_app
+    stage: STAGE_CC_INSIGHTS_STREAMLIT
+    query_warehouse: ELDEEB_MED
+    main_file: Contact_Center_Insights.py
+    pages_dir: pages/
+    artifacts:
+      - /Users/aeldeeb/Contact_Center_Insights.py
+      - environment.yml
+      - pages/*
+      - call-center-cubicles-pexels-mid-blue.jpg

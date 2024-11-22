@@ -1,0 +1,7 @@
+name: sf-env
+channels:
+  - snowflake
+dependencies:
+  - streamlit
+  - plotly
+  - pandas
