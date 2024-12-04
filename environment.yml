@@ -1,3 +1,5 @@
 name: nessie_env
 channels:
 - snowflake
+dependencies:
+- streamlit
